@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.statWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.posiWrapper {
+  margin-top: 8px;
+}

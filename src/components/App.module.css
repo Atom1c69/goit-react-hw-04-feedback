@@ -1,0 +1,13 @@
+.wrapper {
+  background: linear-gradient(0deg,
+      rgba(255, 216, 82, 1) 0%,
+      rgba(93, 180, 255, 1) 100%);
+  text-align: center;
+  width: 350px;
+  margin: 150px auto 0 auto;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 6px -1px rgba(0, 0, 0, 0.47);
+  -webkit-box-shadow: 3px 3px 6px -1px rgba(0, 0, 0, 0.47);
+  -moz-box-shadow: 3px 3px 6px -1px rgba(0, 0, 0, 0.47);
+}
